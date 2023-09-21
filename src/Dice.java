@@ -6,7 +6,7 @@ import java.util.Random;
 public class Dice {
     // Attributes
     int sides = 6;
-    int sideShowing = 1;
+    int sideShowing = sides;
     String colour = "red";
     boolean weighted = false;
 

@@ -15,6 +15,7 @@ public class Main {
         myDice.rollDice();
         myDice2.rollDice();
         myD20.rollDice();
+        myD20.sides = 15;
 
         System.out.println("new value for first dice " + myDice.sideShowing);
         System.out.println("new value for second dice " + myDice2.sideShowing);
