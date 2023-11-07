@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Hunddagis/Hunddagis.iml" filepath="$PROJECT_DIR$/Hunddagis/Hunddagis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MiniLiBrary/MiniLiBrary.iml" filepath="$PROJECT_DIR$/MiniLiBrary/MiniLiBrary.iml" />
       <module fileurl="file://$PROJECT_DIR$/TE21D-IntroOOP.iml" filepath="$PROJECT_DIR$/TE21D-IntroOOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TinyBank/TinyBank.iml" filepath="$PROJECT_DIR$/TinyBank/TinyBank.iml" />
     </modules>
   </component>
 </project>
